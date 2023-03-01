@@ -144,8 +144,8 @@ Macro for the size (in bytes) of a 128-bit complex number.
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/complex64/num-bytes`][@stdlib/constants/complex64/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a 64-bit complex number.</span>
--   <span class="package-name">[`@stdlib/constants/float64/num-bytes`][@stdlib/constants/float64/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-complex64/num-bytes`][@stdlib/constants/complex64/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a 64-bit complex number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/num-bytes`][@stdlib/constants/float64/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a double-precision floating-point number.</span>
 
 </section>
 
