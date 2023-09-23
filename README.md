@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import COMPLEX128_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-complex128-num-bytes@deno/mod.js';
+import COMPLEX128_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-complex128-num-bytes@v0.1.0-deno/mod.js';
 ```
 
 #### COMPLEX128_NUM_BYTES
@@ -67,7 +67,7 @@ var bool = ( COMPLEX128_NUM_BYTES === 16 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import COMPLEX128_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-complex128-num-bytes@deno/mod.js';
+import COMPLEX128_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-complex128-num-bytes@v0.1.0-deno/mod.js';
 
 console.log( COMPLEX128_NUM_BYTES );
 // => 16
